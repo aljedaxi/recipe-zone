@@ -1,0 +1,15 @@
+{
+  "name": "recipe-zone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "daxi",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "fluture": "^14.0.0",
+    "fluture-sanctuary-types": "^7.1.0",
+    "js-yaml": "^4.1.0",
+    "sanctuary": "^3.1.0",
+    "title": "^3.4.3"
+  }
+}
