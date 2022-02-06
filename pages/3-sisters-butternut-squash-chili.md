@@ -1,6 +1,5 @@
 # 3 sisters butternut squash chili
 
-
 A Vegetarian Chili recipe inspired by the Native American legend of the Three Sisters: corn, squash, and beans.
 source: https://www.aspicyperspective.com/three-sisters-butternut-squash-chili/
 
